@@ -26,6 +26,16 @@ Kelas : B**
 #### /highest-gpa
 <img width="960" alt="after-3" src="https://github.com/user-attachments/assets/05896fbb-486d-46cc-9c94-3507b72f1d72" />
 
+### Conclusion
+#### /all-student
+Sebelum optimasi, waktu sampel berada di atas 50.000 ms. Setelah dilakukan optimasi, waktu sampel menurun secara signifikan menjadi kurang lebih 2.000 ms, menunjukkan peningkatan performa sebesar 96%.
+
+#### /all-student-name
+Sebelum optimasi, waktu sampel berada di kisaran 1.000 ms. Setelah optimasi, waktu sampel berkurang drastis hingga mencapai sekitar 60 ms, dengan peningkatan performa sebesar 94%.
+
+#### /highest-gpa
+Sebelum optimasi, waktu sampel berkisar antara 50 hingga 60 ms. Setelah optimasi, waktu sampel menurun menjadi sekitar 10-20 ms, menghasilkan peningkatan performa hingga 66,67%.
+
 ## Reflection
 
 **1. Difference between the approach of performance testing with JMeter and profiling with IntelliJ Profiler**  
