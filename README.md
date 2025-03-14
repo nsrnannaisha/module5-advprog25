@@ -19,12 +19,15 @@ Kelas : B**
 ### After Optimizing
 #### /all-student
 <img width="960" alt="after-1" src="https://github.com/user-attachments/assets/54cbcda2-77c0-4e0d-9f90-1823262734dc" />
+<img width="960" alt="Screenshot 2025-03-14 201456" src="https://github.com/user-attachments/assets/98ddfbf7-4d14-4ff2-91c7-3a679941ecb9" />
 
 #### /all-student-name
 <img width="960" alt="Screenshot 2025-03-14 201456" src="https://github.com/user-attachments/assets/18fe84e1-28db-43d6-b0c4-cc9d680d9dba" />
+<img width="960" alt="Screenshot 2025-03-14 203805" src="https://github.com/user-attachments/assets/937ad00f-e464-4785-96f3-ebbe2337421a" />
 
 #### /highest-gpa
 <img width="960" alt="after-3" src="https://github.com/user-attachments/assets/05896fbb-486d-46cc-9c94-3507b72f1d72" />
+<img width="960" alt="Screenshot 2025-03-14 204019" src="https://github.com/user-attachments/assets/4c7604c0-ccb5-470d-85c2-86e6eaea3378" />
 
 ### Conclusion
 #### /all-student
